@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+div#hajimete{
+padding:30px;
+margin-bottom: 30px;
+    background-color: #ffe9e8;
+}
+#hajimete p{
+    font-size: 1.2em;
+    line-height: 2em;
+}

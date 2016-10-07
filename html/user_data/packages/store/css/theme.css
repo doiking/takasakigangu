@@ -271,9 +271,11 @@ h6, .h6 {
   border-top: 1px solid #aaa;
   border-bottom: 1px solid #aaa;
   background: #ffffff;
-  background: -moz-linear-gradient(top, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
+
+/**  background: -moz-linear-gradient(top, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
   background: -webkit-linear-gradient(top, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
   background: linear-gradient(to bottom, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
+ */
 }
 .navbar.navbar-default .navbar-header .navbar-brand {
   color: #111;

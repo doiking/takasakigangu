@@ -40,7 +40,7 @@ class LC_Page_Abouts extends LC_Page_Ex
     public function init()
     {
         parent::init();
-        $this->tpl_title = '当サイトについて';
+        $this->tpl_title = ‘当店について’;
         $masterData = new SC_DB_MasterData_Ex();
         $this->arrPref = $masterData->getMasterData('mtb_pref');
     }
